@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+#banner {
+  background-size: 960px 360px;
+}
+
+#bungkus {
+  width: 960px;
+  margin: 25px auto 0;
+  overflow: hidden;
+}
+
+#logo {
+  float: left;
+}
+
+#logo img {
+  height: 50px;
+}
+
+nav {
+  float: right;
+  margin-top: 20px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding-top: 15px;
+  color: #ed1a23;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  border-top: 3px solid;
+}
+
+#jasa {
+  background: #eeeeee;
+  padding: 38px 0;
+}
+
+#jasa .box {
+  width: 240px;
+  display: inline-block;
+  margin: 0 38px;
+}
+
+.box .title {
+  text-align: center;
+}
+
+img.kiri {
+  float: left;
+  margin-right: 16px;
+}
+
+footer {
+  clear: both;
+  border-top: 1px solid #666666;
+  padding: 25px;
+  text-align: center;
+}

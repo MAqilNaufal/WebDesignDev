@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+#navbar {
+  float: left;
+}
+
+#banner {
+  background-size: 960px 360px;
+  border-bottom: 3px solid#333333;
+  box-sizing: border-box;
+}
+
+#bungkus {
+  width: 960px;
+  margin: 25px auto 0;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+#logo {
+  float: right;
+}
+
+#logo img {
+  height: 50px;
+}
+
+nav {
+  float: right;
+  margin-top: 20px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding-top: 15px;
+  color: #333333;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  border-bottom: 3px solid;
+}
+
+#jasa {
+  box-sizing: border-box;
+  padding: 38px 0;
+  color: #666666;
+}
+
+#jasa .box {
+  width: 240px;
+  display: inline-table;
+  margin: 0 16px;
+}
+
+#paragraf {
+  margin-top: 10%;
+}
+
+.title {
+  font-size: larger;
+  font-weight: bolder;
+}
+
+input {
+  padding: 6px;
+  background-color: rgb(235, 235, 235);
+  border-radius: 3px;
+}
+
+::placeholder {
+  color: #4cb2e5;
+}
+
+button {
+  margin-top: 10%;
+  float: right;
+  background-image: radial-gradient(white, rgb(128, 190, 209), rgb(77, 137, 156));
+  border-radius: 5px;
+  padding: 5px;
+}
+
+footer {
+  clear: both;
+  border-top: 1px solid #666666;
+  padding: 25px;
+  text-align: center;
+  border-bottom: 10px solid #4cb2e5;
+}
