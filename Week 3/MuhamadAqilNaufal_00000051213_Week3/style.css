@@ -1,0 +1,163 @@
+html,
+body {
+  font-family: serif;
+  font-size: 15px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #faf7f7;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  width: 950px;
+  margin: 30px auto 0 auto;
+}
+
+.navbar {
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  font-family: sans-serif;
+  background-color: #313333;
+  background-image: url("assets/Picture/menu_bg.png");
+}
+
+.bentuk-nav {
+  text-align: center;
+  display: inline-block;
+  color: #d4d4d4;
+  border-right: 1px solid #181a1a;
+  width: auto;
+  height: auto;
+  padding: 15px 28px;
+  position: relative;
+  font-size: 14pt;
+  font-weight: 200;
+  text-decoration: none;
+}
+
+.title {
+  padding: 5px 20px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.title h1 {
+  font-size: 20pt;
+  font-weight: normal;
+  color: grey;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content1 {
+  width: 100%;
+}
+
+.content1 h1 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: grey;
+}
+
+.paragraf {
+  width: 660px;
+  text-align: justify;
+}
+
+.sidebar {
+  float: right;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  color: grey;
+}
+
+.sidebar h3 {
+  font-size: 16pt;
+  font-family: sans-serif;
+  color: grey;
+  font-weight: lighter;
+}
+
+#search {
+  background-image: url("assets/Picture/search.png");
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-top: 8px;
+  width: 250px;
+  height: auto;
+  position: absolute;
+  border-radius: 3px;
+  border-color: transparent;
+}
+
+.sidebar .sidebar-lagi {
+  border-bottom: 3px dotted #cccccc;
+  padding-bottom: 10px;
+}
+
+.sidebar .sidebar-lagi img {
+  width: 250px;
+  cursor: pointer;
+}
+
+.sidebar-lagi .tag {
+  display: inline-block;
+  padding: 10px;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+.tag {
+  text-align: center;
+  display: block;
+  background: #cccccc;
+  width: auto;
+  height: auto;
+  padding: 5px 10px;
+  color: grey;
+  border-radius: 4px;
+  position: relative;
+  cursor: pointer;
+}
+
+.tombolbawah {
+  margin-top: 20px;
+}
+
+.tombol {
+  text-align: center;
+  display: inline-block;
+  color: white;
+  background-color: #000000;
+  background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+  width: auto;
+  height: auto;
+  padding: 5px 10px;
+  border-radius: 4px;
+  position: relative;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.footer {
+  display: flex;
+  width: 100%;
+  background-color: #000000;
+  background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+  color: white;
+  text-align: left;
+  margin: 50px auto 0 0;
+  padding: 10px 0;
+}
+
+.footer p {
+  padding-left: 200px;
+}
