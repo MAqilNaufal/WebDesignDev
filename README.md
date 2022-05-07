@@ -10,4 +10,7 @@ Hosting web via github pages
  https://maqilnaufal.github.io/WebDesignDev/Week%204/MuhamadAqilNaufal_00000051213_Week4/index.html
  ## week 5
  https://maqilnaufal.github.io/WebDesignDev/Week%205/MuhamadAqilNaufal_00000051213_Week5/index.html
-### //pada saat hosting via github pages mungkin saja jsnya gak kebaca
+ ## week 6
+ https://maqilnaufal.github.io/WebDesignDev/Week%206/MuhamadAqilNaufal_00000051213_Week6/chatbot.html
+
+#### pada saat hosting via github pages mungkin saja jsnya gak kebaca
