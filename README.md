@@ -1,5 +1,5 @@
 # WebDesignDev
-Hosting web via github pages
+Hosting Tugas mata kuliah website design and development via github pages
  ## week 1
  https://maqilnaufal.github.io/WebDesignDev/Week%201/MuhamadAqilNaufal_00000051213_Week1/index.html
  ## week 2
@@ -19,4 +19,4 @@ Hosting web via github pages
  ## week 9
  https://maqilnaufal.github.io/WebDesignDev/Week%209/MuhamadAqilNaufal_00000051213_Week9/index.php
 
-#### pada saat hosting via github pages mungkin saja jsnya gak kebaca
+#### pada saat hosting via github pages php dan JS tidak dibaca
